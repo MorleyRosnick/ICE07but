@@ -1,0 +1,10 @@
+{
+    "name": "ICE07but",
+    "version": "1.0.0",
+    "manifest_version": 1,
+    "project_type": "application",
+    "executable_type": "scratch",
+    "executable": "ICE07but.xml",
+    "author": "mykepredko",
+    "minimum_firmware_version": 42
+}
